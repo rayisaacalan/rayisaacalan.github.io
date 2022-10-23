@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m currently a doctoral student at Texas A&M University studying Statistics. My research interests are in Bayesian Nonparametric models, particularly with applications in spatial statistics and constrained parameter situations. I focus more on developing methodology for applied data science and computation than statistical theory."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "Education",
+    "text": "Education\nTexas A&M University | College Station, TX\nPh.D. in Statistics | August 2021 - Present\nB.S. in Applied Mathematics | August 2018 - May 2021\n\nMinors in Statistics and Computer Science\nHonors in Mathematics"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About Me",
+    "section": "Experience",
+    "text": "Experience\nShell USA | Remote\nData Scientist | February 2022 - Present\nTexas A&M University Statistics | College Station, TX\nResearch Assistant | December 2021 - Present\nGraduate Assistant Teacher | August 2021 - December 2021\nJERL H&B Laboratories | Dallas, TX\nConsultant | May 2019 - August 2019"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "rayisaacalan.github.io",
+    "section": "",
+    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  }
+]
