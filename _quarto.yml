@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources: 
+    - cv.pdf
 
 website:
   title: "Isaac Ray"
@@ -10,20 +12,35 @@ website:
   repo-url: "https://github.com/rayisaacalan/rayisaacalan.github.io"
   search: false
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: superhero
     css: styles.css
     toc: true
 
 about:
   template: solana
   image-shape: round
+  links:
+  - icon: twitter
+    text: Twitter
+    href: https://twitter.com/rayisaacalan
+  - icon: github
+    text: Github
+    href: https://github.com/rayisaacalan/
+  - icon: linkedin
+    text: LinkedIn
+    href: https://www.linkedin.com/in/isaac-a-ray/
+  - icon: paper
+    text: CV
+    url: cv.pdf
 
 editor: visual
 
+execute: 
+  freeze: auto
