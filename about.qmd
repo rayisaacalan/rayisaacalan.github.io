@@ -1,0 +1,33 @@
+---
+title: "About Me"
+image: /media/headshot.jpeg
+---
+
+I'm currently a doctoral student at Texas A&M University studying Statistics. My research interests are in Bayesian Nonparametric models, particularly with applications in spatial statistics and constrained parameter situations. I focus more on developing methodology for applied data science and computation than statistical theory.
+
+## Education
+
+**Texas A&M University** \| College Station, TX
+
+*Ph.D. in Statistics* \| August 2021 - Present
+
+*B.S. in Applied Mathematics* \| August 2018 - May 2021
+
+-   *Minors in Statistics and Computer Science*
+-   *Honors in Mathematics*
+
+## Experience
+
+**Shell USA** \| Remote
+
+*Data Scientist* \| February 2022 - Present
+
+**Texas A&M University Statistics** \| College Station, TX
+
+*Research Assistant* \| December 2021 - Present
+
+*Graduate Assistant Teacher* \| August 2021 - December 2021
+
+**JERL H&B Laboratories** \| Dallas, TX
+
+*Consultant* \| May 2019 - August 2019

@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: "Isaac Ray"
+  favicon: favicon.ico
+  description: "Homepage for Statistician Isaac Ray"
+  site-url: "https://rayisaacalan.github.io"
+  repo-url: "https://github.com/rayisaacalan/rayisaacalan.github.io"
+  search: false
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+about:
+  template: solana
+  image-shape: round
+
+editor: visual
+
